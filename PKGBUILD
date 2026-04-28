@@ -12,7 +12,7 @@ depends=('desktop-file-utils' 'gtk3' 'hicolor-icon-theme' 'libnotify' 'libsecret
 optdepends=('libappindicator-gtk3')
 options=('!strip' '!emptydirs')
 install=${pkgname}.install
-source=("https://cos-cdn.cm-worklink.com/hk-gm-cmuop-ceph-steadiness-bucket/worklink_4.2.1-2200-302967_linux-all-amd64.deb")
+source=("https://cos-cdn.cm-worklink.com/hk-gm-cmuop-ceph-steadiness-bucket/worklink_4.3.3-2253-55e83b_linux-all-amd64.deb")
 sha512sums=('SKIP')
 
 package(){
